@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you 👋</h1>
 
 <p></br> I'm Nageswara Rao Maridu, Fullstack developer from <b>Bangalore, India <img src="https://img.icons8.com/officel/16/000000/india.png" width=16/></b></p>
 <h3>Things I code with</h3>

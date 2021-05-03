@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 - 🤓 I'm a full stack developer
 - 💬 Hands-on experience in Analysis, Design and Development
-- 💬 Solid programming expertise in C, Java, Golang and Object Oriented Design
+- 💬 Solid programming expertise in Java and Golang
+- 💬 Good knowledge over Object Oriented Design
 - 💬 Focused towards Code Quality and Security Test Driven Development
 - 🏆 I am a quick learner and team player
 -  ⚡ Continuously learning how to make the world better
